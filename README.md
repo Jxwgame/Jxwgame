@@ -9,9 +9,9 @@ Student interested in Infrastructure & Network, learning Fullstack development a
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [Theerapatsangsee@gmail.com](mailto:Theerapatsangsee@gmail.com)
 * 🧠  I'm currently 
-   :arrow_right: Practicing infrastructure setup and deployment (Linux, Docker, basic cloud)
-   :arrow_right: Building Fullstack projects with deployment (backend, APIs, databases)
-   :arrow_right: Improving my understanding of network fundamentals
+    Practicing infrastructure setup and deployment (Linux, Docker, basic cloud),
+    Building Fullstack projects with deployment (backend, APIs, databases),
+    Improving my understanding of network fundamentals
 * 👥  I'm looking to collaborate on Learning or practice projects (Infrastructure / Network / Backend) Fullstack projects where I can also help with deployment or backend
 
 <p align="left">
@@ -21,7 +21,3 @@ Student interested in Infrastructure & Network, learning Fullstack development a
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Jxwgame" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/Jxwgame" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jxwgame&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
